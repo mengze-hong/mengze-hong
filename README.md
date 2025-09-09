@@ -2,7 +2,7 @@
 
 # Mengze Hong
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=PhD+Researcher+%7C+Hong+Kong+Polytechnic+University;Making+LLMs+Accessible+to+Everyone;Customer+Service+%26++Dialogue+Data+Mining)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0B0B0&background=FFFFFF00&width=600&lines=PhD+Researcher+%7C+Hong+Kong+Polytechnic+University;Making+LLM+Applications+Accessible+to+Everyone;Customer+Service+Automation+%26+Dialogue+Data+Mining)](https://git.io/typing-svg)
 
 </div>
 
