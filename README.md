@@ -12,7 +12,6 @@
 **Current Position:** PhD in Computing, Hong Kong Polytechnic University (2024-2028)  
 **Research Focus:** LLM-in-the-loop methods for dialogue data mining and customer service automation  
 **Industry Experience:**
-- **AI & Web3 Consultant** at HashKey Exchange, Hong Kong (2025)
 - **NLP Research Intern** at WeBank AI Group, Shenzhen (2024-2025)
 
 
