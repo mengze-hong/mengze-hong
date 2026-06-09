@@ -12,6 +12,7 @@
 Hi, I am Mengze Hong, a PhD student in the Department of Computing at The Hong Kong Polytechnic University (2024-2028)
 
 **Research Focus:** LLM Evaluations and Benchmarking, Dialogue Data Mining
+
 **Industry Experience:**
 - **Project Up (Qingyun) Intern** at Tencent, Shenzhen
 - **NLP Research Intern** at WeBank AI Group, Shenzhen
